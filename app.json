@@ -1,0 +1,10 @@
+{
+  "permission": {
+    "scope.userInfo": {
+      "desc": "你的用户信息将用于展示头像和ID"
+    },
+	"scope.camera": {
+	        "desc": "摄像头权限用于人体姿态识别"
+	}
+  }
+}
